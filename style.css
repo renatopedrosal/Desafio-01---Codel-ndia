@@ -90,6 +90,10 @@ div.cabecalho {
   padding: 0;
 }
 
+.like {
+  color: red;
+}
+
 span.data,
 p {
   color: var(--gray);
